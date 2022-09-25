@@ -1,13 +1,13 @@
 #pragma once
 
-#define APP_TITLE "ESP32CAM-RTSP"
+#define APP_TITLE "WHOCAM-RTSP"
 #define APP_VERSION "1.0"
 
-#define WIFI_SSID "ESP32CAM-RTSP"
-#define WIFI_PASSWORD nullptr
-#define CONFIG_VERSION "1.1"
+#define WIFI_SSID "WHOCAM-RTSP"
+#define WIFI_PASSWORD "starkenburg"
+#define CONFIG_VERSION "1.2"
 
-#define OTA_PASSWORD "ESP32CAM-RTSP"
+#define OTA_PASSWORD "starkenburg"
 
 #define RTSP_PORT 554
 #define DEFAULT_CAMERA_CONFIG "TTGO T-CAM"
